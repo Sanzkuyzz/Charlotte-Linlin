@@ -1,3 +1,8 @@
+## Announcement
+```
+I will not continue this project because baileys is no longer updated. However, if you want a pull request, I will accept it. See you on the next project
+```
+
 ## <b><center>Charlotte Linlin</center></b>
  
 <img src="https://telegra.ph/file/71c196cc44dbe175c72c0.jpg" alt="Charlotte Linlin" width="500"/>
